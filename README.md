@@ -9,7 +9,7 @@ A Personal portfolio website
 
 ## Screenshots
 
-![App Screenshot](https://i.postimg.cc/cJYM33x3/imagegetty.png/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://i.postimg.cc/XYRXRPMk/image.png)
 
 
 
