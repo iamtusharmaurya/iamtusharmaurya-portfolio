@@ -17,7 +17,7 @@ A Personal portfolio website
 
 ## Demo
 
-[Click Here](https://imagegetlly.netlify.app/)
+[Click Here](https://iamtusharmaurya.netlify.app/)
 
 
 ## Documentation
